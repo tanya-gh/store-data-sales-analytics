@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="dashboard.png" target="_blank">
+  <a href="dashboard.jpeg" target="_blank">
     <img src="dashboard.png" alt="Excel Sales Dashboard" width="800"/>
   </a>
 </p>
